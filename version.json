@@ -1,0 +1,6 @@
+{
+  "versionCode": 107,
+  "versionName": "0.1.7",
+  "notes": "Fix REC: 0xD2C8 is start(2)/stop(1), not a press; mark 0xD21D verified",
+  "sha256": "59b853ffb5699ddd8074214a58cbcfce1e51689ffe2ca19300ee1c89fc8e5f63"
+}
